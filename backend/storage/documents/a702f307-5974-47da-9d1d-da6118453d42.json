@@ -1,0 +1,32 @@
+{
+  "id": "a702f307-5974-47da-9d1d-da6118453d42",
+  "filename": "Sample_NDA_Legal_Document.pdf",
+  "file_size": 3842,
+  "file_path": "storage\\uploads\\a702f307-5974-47da-9d1d-da6118453d42.pdf",
+  "uploaded_at": "2026-07-11T06:25:24.170580",
+  "summary": "A Non-Disclosure Agreement (NDA) is entered into between ABC Technologies Pvt. Ltd., a software development company, and John Smith, a software developer. The purpose of the agreement is to discuss a potential partnership while sharing confidential information. Confidentiality obligations last for 8 years after termination. The parties agree on intellectual property rights, liability, governing law, force majeure, and an entire agreement.",
+  "parties": [
+    "ABC Technologies Pvt. Ltd.",
+    "John Smith",
+    "Software Developer",
+    "Confidential Information Confidential Information"
+  ],
+  "governing_law": "Not explicitly specified",
+  "dates": [
+    {
+      "date": "2026-07-10",
+      "raw": "10 July 2026",
+      "context": "NON-DISCLOSURE AGREEMENT (NDA) Effective Date: 10 July 2026 This Non-Disclosure Agreement ('Agreement') is entered into between ABC Technol",
+      "category": "Effective Date"
+    }
+  ],
+  "clauses": [
+    {
+      "category": "Rights",
+      "title": "Definition of Confidential Information",
+      "description": "Defines what constitutes confidential information shared between the parties.",
+      "reference": "Section 2"
+    }
+  ],
+  "risks": []
+}
